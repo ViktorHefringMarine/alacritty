@@ -11,7 +11,7 @@
 #import:
 #  - /path/to/alacritty.yml
 import:
-  - ~/.config/alacritty/.alacritty-theme/schemes.yaml
+  - ~/.config/alacritty/alacritty-theme/schemes.yaml
 theme: Jmbi
 # import:
 #   - ~/.alacritty-colorscheme/themes/{scheme_name}.yaml
